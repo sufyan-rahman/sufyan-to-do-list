@@ -18,7 +18,7 @@
     <div class="col-sm-12">
         <?php
          include("database.php");
-         include("delete-to-do.php");
+         //include("delete-to-do.php");
          include("to-do-form.php");
          include("to-do-list.php");
         ?>
